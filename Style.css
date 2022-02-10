@@ -8,7 +8,7 @@ body {
     background-image: url(d4XSaC.png);
     background-size: cover;
     font-style: normal;
-    color: rgb(0, 8, 0);
+    color: rgb(1, 10, 1);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,7 +20,7 @@ body {
     height: 500px;
     padding: 30px;
     border-radius: 15px;
-    background-color: hsla(0, 100%, 90%, 0.3);
+    background-color: hsla(0, 6%, 87%, 0.3);
 }
 
 h2 {
@@ -46,13 +46,13 @@ h2 {
 
 .register input {
     margin-top: 20px;
-    margin-left: 210px;
+    margin-left: .5px;
     padding: 7px;
     border-radius: 5px;
-    background-color: rgb(199, 247, 247);
+    background-color: rgb(146, 192, 192);
     border: 2px solid rgb(79, 80, 79);
     outline: none;
-    width: 100px;
+    width: 95%;
     font-size: 15px;
     font-weight: bold;
 }
